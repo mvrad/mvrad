@@ -11,21 +11,6 @@
 * [**Blog**](https://blog.mconrad.io)
 * [**Twitter**](https://twitter.com/mc0nrad)
 
-## Current Repos
-
-<a href="https://github.com/mvrad/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvrad&repo=portfolio&theme=tokyonight" />
-</a>
-<a href="https://github.com/mvrad/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvrad&repo=blog&theme=tokyonight" />
-</a>
-<a href="https://github.com/mvrad/alpha.ai-landing-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvrad&repo=alpha.ai-landing-page&theme=tokyonight" />
-</a>
-<a href="https://github.com/mvrad/dsa_using_c_and_cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvrad&repo=dsa_using_c_and_cpp&theme=tokyonight" />
-</a>
-
 ## My Profile Stats
 
 <a href="https://github.com/mvrad">
